@@ -6,5 +6,7 @@
 ###3 sections:
 
 ####functions and methods
+  ###### -IIFE
+  ###### - scope
 ####objects
 ####built-in objects
