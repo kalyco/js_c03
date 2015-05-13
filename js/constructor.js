@@ -16,13 +16,4 @@ var parkHotel = new Hotel('Park', 120, 77);
 
 // add "new" and then call the function
 
-// literal notation
-var hotel = ()
-
-hotel.name = 'Quay';
-hotel.rooms = 40;
-hotel.booked = 25;
-hotel.checkAvailability = function() {
-  return this.rooms - this.booked;
-};
 
